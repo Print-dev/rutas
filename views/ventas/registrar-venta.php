@@ -1,0 +1,1 @@
+<h1>registrar venta</h1>
