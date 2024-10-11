@@ -1,7 +1,7 @@
 # Titulo
 ## Subtitulo
 
-- Tarea 1 👌
+- [x] Tarea 1 👌
 - DOS ✅
 - TRES 🤣
 
